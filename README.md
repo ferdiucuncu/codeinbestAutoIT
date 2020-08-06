@@ -28,13 +28,3 @@ AutoIt başlangıçta binlerce PC'yi güvenilir bir şekilde otomatikleştirmek 
 
 - Ayrıca AutoIt'ın AutoItX adlı birleşik COM ve DLL sürümü, AutoIt'ın benzersiz özelliklerini kendi favori komut dosyası veya programlama dillerinize eklemenizi sağlar!
 
-``` 
-ferdi üçüncü
-``` 
-
-# code
-
-<code>
-
-	ferdi deneme
-</code>
