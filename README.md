@@ -32,6 +32,9 @@ AutoIt başlangıçta binlerce PC'yi güvenilir bir şekilde otomatikleştirmek 
 ferdi üçüncü
 ``` 
 
+<codeblock>
+	deneme blok
+</codeblock>
 <code>
 	ferdi deneme
 </code>
