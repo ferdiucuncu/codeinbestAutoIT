@@ -7,7 +7,7 @@ AutoIt v3, Windows GUI ve genel komut dosyalarını otomatikleştirmek için tas
 
 AutoIt başlangıçta binlerce PC'yi güvenilir bir şekilde otomatikleştirmek ve yapılandırmak için PC “yayma” durumları için tasarlanmıştır. Zaman içinde karmaşık ifadeleri, kullanıcı işlevlerini, döngüleri ve kıdemli yazarların beklediği her şeyi destekleyen güçlü bir dil haline geldi.
 
-# Başlıca Özellikleri
+## Başlıca Özellikleri
 
 - Öğrenmesi kolay BASIC benzeri sözdizimi
 - Tuş vuruşlarını ve fare hareketlerini simüle edin
