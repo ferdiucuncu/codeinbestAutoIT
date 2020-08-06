@@ -28,6 +28,10 @@ AutoIt başlangıçta binlerce PC'yi güvenilir bir şekilde otomatikleştirmek 
 
 - Ayrıca AutoIt'ın AutoItX adlı birleşik COM ve DLL sürümü, AutoIt'ın benzersiz özelliklerini kendi favori komut dosyası veya programlama dillerinize eklemenizi sağlar!
 
-```
-docker pull cedrozor/myrtille(:tag)
-```
+``` 
+ferdi üçüncü
+``` 
+
+'''
+deneme
+'''
