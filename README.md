@@ -27,4 +27,3 @@ AutoIt başlangıçta binlerce PC'yi güvenilir bir şekilde otomatikleştirmek 
 - AutoIt mümkün olduğunca küçük ve bağımsız olarak tasarlanmıştır. Harici .dll dosyaları veya Sunucularda kullanımını güvenli kılan kayıt defteri girdileri gerekmez. Betikler, Aut2Exe ile bağımsız yürütülebilir dosyalara derlenebilir .
 
 - Ayrıca AutoIt'ın AutoItX adlı birleşik COM ve DLL sürümü, AutoIt'ın benzersiz özelliklerini kendi favori komut dosyası veya programlama dillerinize eklemenizi sağlar!
-
