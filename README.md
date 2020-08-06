@@ -19,7 +19,7 @@ AutoIt başlangıçta binlerce PC'yi güvenilir bir şekilde otomatikleştirmek 
 - Düzenli ifadeler
 - Harici DLL ve Windows API işlevlerini doğrudan çağırın
 - Scriptable RunAs işlevleri
-- Ayrıntılı yardım dosyası ve büyük topluluk tabanlı destek forumları (En çok yardımcı içeriğe kodevreni.com adresinden ulaşabilirsiniz.)
+- Ayrıntılı yardım dosyası ve büyük topluluk tabanlı destek forumları
 - Windows XP / 2003 / Vista / 2008 / Windows 7/2008 R2 / Windows 8/2012 R2 / Windows 10 ile uyumlu
 - Unicode ve x64 desteği
 - İçiniz rahat olsun diye dijital olarak imzalanmış
