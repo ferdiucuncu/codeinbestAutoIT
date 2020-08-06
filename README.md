@@ -33,8 +33,12 @@ ferdi üçüncü
 ``` 
 
 <code block>
+
 	deneme blok
+
 </code block>
 <code>
+
 	ferdi deneme
+	
 </code>
