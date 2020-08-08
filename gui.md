@@ -51,4 +51,34 @@ ikinci paratmetre etkilenecek GUI 'dir', ikinci parametre opsiyoneldir ve belirt
 	@SW_SHOWNA - Pencereyi mevcut durumunda görüntüler
 	@SW_SHOWNOACTIVATE - Pencereyi görünür hale getirir, Varsayılan görünüm ayarlarına döndürür, pencere kilitliyse kilidini açmaz
 	@SW_SHOWNORMAL - Pencereyi varsayılan ayarları ile görünür hale getirir.
- ```
+```
+# GUIGetMsg()
+
+GUI 'de yapılan işlemi sorgulamak için <code>GUIGetMsg()</code> fonksiyonu kullanılır.
+<code>GUIGetMsg()</code> Fonksiyonu tanımlı sabitlerin aldığı sayısal değerleri referans alır, sabitleri ve karşılık gelen tüm değerleri AutoIt programının kurulu olduğu dizin/include/GUIConstantsEx.au3 dosyasında görebilirsiniz.
+
+<code>GUIGetMsg()</code> fonksiyonun değeri GUI 'de yapılan işleme karşılık gelen sabitin sayısal değeridir.
+
+### Geri Dönecek Değerler İçin Küçük Bir Örnek 
+
+Kullanıcı pencereyi kapattığında <code>GUIGetMsg()</code> fonksiyonu -3 değeri alacaktır veya hiç bir işlem yapılmıyorsa sıfır değeri alacaktır.
+
+### GUIGetMsg() Fonksiyonun alacağı değerler ve anlamları şu şekildedir
+
+```
+$GUI_EVENT_NONE (0)  => İşlem Yapılmıyor
+$GUI_EVENT_CLOSE (-3)  => GUI Kapatılıyor (Tanımladığınız buton aracılığı ile gerçekleşir veya windows un standart kapatma simgesi bu değeri alır)
+$GUI_EVENT_MINIMIZE (-4) => GUI Windows başlık çubuğu düğmesi ile küçültüldü.
+$GUI_EVENT_RESTORE  (-5) => GUI görev çubuğu simgesine tıklanarak geri yüklenir.
+$GUI_EVENT_MAXIMIZE (-6) => GUI  Windows başlık çubuğu düğmesi ile büyütülmüştür.
+$GUI_EVENT_PRIMARYDOWN (-7) => Birincil fare düğmesine basıldı.
+$GUI_EVENT_PRIMARYUP (-8) => Birincil fare düğmesi bırakıldı.
+$GUI_EVENT_SECONDARYDOWN (-9) => ikincil fare düğmesine basıldı.
+$GUI_EVENT_SECONDARYUP (-10) => ikincil fare düğmesi bırakıldı.
+$GUI_EVENT_MOUSEMOVE (-11) => fare imleci hareket etti.
+$GUI_EVENT_RESIZED (-12) => GUI yeniden boyutları değiştirildi.
+$GUI_EVENT_DROPPED (-13) => GUI 'ye yapılan bir sürükle bırak işleminin sonuç değeri (sürükle bırak yöntemi ile dosya yükleme gibi işlemlerde kullanılır.)
+
+```
+
+
