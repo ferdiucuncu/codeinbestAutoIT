@@ -82,3 +82,4 @@ $GUI_EVENT_DROPPED (-13) => GUI 'ye yapılan bir sürükle bırak işleminin son
 ```
 
 
+Yukarıdaki anlatımların örnek uygulamasını TestApps/GUIexample1.au3 dosyası içerisinde bulabilirsin.
