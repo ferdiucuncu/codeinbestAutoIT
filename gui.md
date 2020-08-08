@@ -36,19 +36,19 @@ ikinci paratmetre etkilenecek GUI 'dir', ikinci parametre opsiyoneldir ve belirt
 
 ```
 	@SW_SHOW = Pencere görünür hale getirir (varsayılan değerdir)
-    @SW_HIDE = Pencereyi gizler
-    @SW_MINIMIZE = Pencereyi küçültür
-    @SW_MAXIMIZE = Pencereyi büyütür
-    @SW_RESTORE = Pencereden yapılan boyutlandırma işlemini sıfırlayarak varsıyalana döndürür
-    @SW_DISABLE = Pencereyi devre dışı bırakır
-    @SW_ENABLE = Pencereyi aktif hale getirir
-    @SW_LOCK = Pencereyi yeniden oluşturmaya karşı kilitler
-    @SW_UNLOCK = Pencerenin yeniden oluşturulma kilidini kaldırır
-    @SW_SHOWDEFAULT - Pencere görünürlüğünü ilk haline geri çevirir.
-    @SW_SHOWMAXIMIZED - 	Pencereyi görünür hale getirir ve büyütür
-    @SW_SHOWMINIMIZED - 	Pencereyi görünür hale getirir ve küçültür
-    @SW_SHOWMINNOACTIVE - Pencereyi simge durumuna küçültülmüş pencere olarak görüntüler
-    @SW_SHOWNA - Pencereyi mevcut durumunda görüntüler
-    @SW_SHOWNOACTIVATE - Pencereyi görünür hale getirir, Varsayılan görünüm ayarlarına döndürür, pencere kilitliyse kilidini açmaz
-    @SW_SHOWNORMAL - Pencereyi varsayılan ayarları ile görünür hale getirir.
+	@SW_HIDE = Pencereyi gizler
+	@SW_MINIMIZE = Pencereyi küçültür
+	@SW_MAXIMIZE = Pencereyi büyütür
+	@SW_RESTORE = Pencereden yapılan boyutlandırma işlemini sıfırlayarak varsıyalana döndürür
+	@SW_DISABLE = Pencereyi devre dışı bırakır
+	@SW_ENABLE = Pencereyi aktif hale getirir
+	@SW_LOCK = Pencereyi yeniden oluşturmaya karşı kilitler
+	@SW_UNLOCK = Pencerenin yeniden oluşturulma kilidini kaldırır
+	@SW_SHOWDEFAULT - Pencere görünürlüğünü ilk haline geri çevirir.
+	@SW_SHOWMAXIMIZED - 	Pencereyi görünür hale getirir ve büyütür
+	@SW_SHOWMINIMIZED - 	Pencereyi görünür hale getirir ve küçültür
+	@SW_SHOWMINNOACTIVE - Pencereyi simge durumuna küçültülmüş pencere olarak görüntüler
+	@SW_SHOWNA - Pencereyi mevcut durumunda görüntüler
+	@SW_SHOWNOACTIVATE - Pencereyi görünür hale getirir, Varsayılan görünüm ayarlarına döndürür, pencere kilitliyse kilidini açmaz
+	@SW_SHOWNORMAL - Pencereyi varsayılan ayarları ile görünür hale getirir.
  ```
